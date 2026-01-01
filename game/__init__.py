@@ -1,0 +1,1 @@
+"""Side-scrolling platformer package."""
